@@ -40,7 +40,7 @@ _"I prefer staying indoors and reading books. I love mystery novels."_
 | **T5 Small Optimized**    |<pre>User 1: Hi, I'm [user 1's name].<br>User 2: Hi, I'm [user 2's name].<br>User 2: Hi, I'm [user 2's name].<br>User 1: What do you like to do for fun?<br>User 2: I like to go hiking and nature walks.</pre> |
 
 
-### Metrics plots 
+### Metrics plots (WIP)
 
 ---
 ## Aknowledgments 
@@ -48,4 +48,4 @@ _"I prefer staying indoors and reading books. I love mystery novels."_
 - 🤗 Dataset used  [google/Synthetic-Persona-Chat]([url](https://huggingface.co/datasets/google/Synthetic-Persona-Chat))
 - 🤗 Pretrained model [T5]([url](https://huggingface.co/docs/transformers/model_doc/t5))
 
-Mélodie 
+
